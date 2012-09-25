@@ -1,2 +1,2 @@
-blah blah blah this is something cool and 
+blah blah blah is something cool and 
 multi lines
